@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471722402 source:c:\users\user\documents\c netbeans\testing quicksort (randamozied piviot)\main.cpp
+	<iostream>
+	<stdlib.h>
+
